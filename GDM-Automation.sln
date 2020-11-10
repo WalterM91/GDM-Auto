@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDM-Automation", "GDM-Automation\GDM-Automation.csproj", "{BEAA6371-C274-497C-BCD4-4DB5A769130E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDM-Framework", "GDM-Framework\GDM-Framework.csproj", "{610B6778-4148-4D36-A70E-ADC21E6FC09A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEAA6371-C274-497C-BCD4-4DB5A769130E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEAA6371-C274-497C-BCD4-4DB5A769130E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEAA6371-C274-497C-BCD4-4DB5A769130E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEAA6371-C274-497C-BCD4-4DB5A769130E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610B6778-4148-4D36-A70E-ADC21E6FC09A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610B6778-4148-4D36-A70E-ADC21E6FC09A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610B6778-4148-4D36-A70E-ADC21E6FC09A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610B6778-4148-4D36-A70E-ADC21E6FC09A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7779B4-416C-4E01-A436-F862600705A7}
+	EndGlobalSection
+EndGlobal
